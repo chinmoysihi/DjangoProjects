@@ -1,0 +1,7 @@
+button{
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  background-color: #c6c9cf;
+  border: 2px solid transparent;
+}
